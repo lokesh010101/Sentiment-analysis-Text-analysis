@@ -6,13 +6,10 @@
 
 ## 👤 Author
 
-**Rohit Malviya** — Roll No: 4816  
-GitHub: [@lokesh chawan](https://github.com/lokeshchawan)  
-**Guide:** Prof. Dipti Shardul Khiste  
-**Institution:** Mahatma Education Society's Pillai College of Arts, Commerce & Science (Autonomous), New Panvel  
-**Program:** Master of Data Analytics — Semester 3 (2025–26)
 
----
+
+
+
 
 ## 📌 Project Overview
 
