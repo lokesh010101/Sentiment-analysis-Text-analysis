@@ -107,4 +107,4 @@ See [`requirements.txt`](requirements.txt) for the full list of dependencies.
 
 ## 📜 License
 
-This project is submitted for academic purposes under **Master of Data Analytics**, Pillai College, New Panvel (2025–26).
+This project is submitted for academic purposes under **Master of Information Technology**, Pillai College, New Panvel (2025–26).
